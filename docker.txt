@@ -1,0 +1,8 @@
+Docker version.
+Docker search.
+Docker pull.
+Docker run.
+Docker ps.
+Docker stop.
+Docker restart.
+Docker kill.
